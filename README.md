@@ -11,5 +11,6 @@ Tick data used in this project can be accessed publicly at https://public.bitmex
 
 Ideas and code snippets presented in ”Advances in Financial Machine Learning” by Marcos Lopez del Prado (https://www.oreilly.com/library/view/advances-in-financial/9781119482086/) are the backbone of the models to be described
 
+To properly use loading data sections and to visualize groups of cells correctly execute this code in Google Colab Pro (100GB RAM machine)
 
 For any question/suggestion pleas refer to (javier.cruz.salaverri@alumnos.upm.es) When that adress stops working try my personal (genovax3x@hotmail.es)
